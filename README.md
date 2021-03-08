@@ -1,6 +1,12 @@
 # jquery-menu
 A Responsive Jquery Menu
 
+## CDN
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Cover-UI/jquery-menu@main/dist/style.min.css">
+<script src="https://cdn.jsdelivr.net/gh/Cover-UI/jquery-menu@main/app.js"></script>
+```
+
 ## Usage
 ```html
   <link rel="stylesheet" href="dist/style.css">
